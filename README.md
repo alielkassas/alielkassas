@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### hey there 
+<a href="https://www.linkedin.com/in/alielkassas/">
+  <img align="left" alt="Ali's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/alihelkassas">
+  <img align="left" alt="Ali El-Kassas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=alielkassas.alielkassas)
+
+<br />
